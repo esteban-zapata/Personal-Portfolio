@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portal Pacman",
+      "imageSrc": "projects/pacman.png",
+      "description": "Built Pac-Man clone with user controlled portal feature",
+      "skills": ["Python", "Pygame"],
+     
+      "source": "https://github.com/marsxnow/PACMAN-PORTAL"
+    },
+    {
+      "title": "Crossy Road",
+      "imageSrc": "projects/crossyroad.png",
+      "description": "Crossy Road clone built with original 3D sprites and enviornment",
+      "skills": ["Unreal Engine", "C++", "Blender", "MagicaVoxel"],
+     
+      "source": "https://github.com/marsxnow/CrossyRoad"
+    },
+    {
+      "title": "Trivia Time",
+      "imageSrc": "projects/trivia.png",
+      "description": "Mobile trivia app with multiple difficulties",
+      "skills": ["React", "Express", "API"],
+     
+      "source": "https://github.com/esteban-zapata/Trivia-Time"
+    }
+  ]
